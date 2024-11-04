@@ -21,6 +21,9 @@ int[]temps = {50,20,39,10,46};
         movies.add("Intersteller");
         movies.add("Tenet");
         movies.add("Oppenhimer");
+        movies.add("The Dark Knight");
+        movies.add("Harry Potter");
+
         movies.remove(2);
         System.out.println(movies);
 
